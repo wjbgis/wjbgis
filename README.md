@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wjbgis/count.svg" />
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=wjbgis)
