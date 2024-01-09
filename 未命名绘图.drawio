@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T08:08:14.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FDy40RiKqb5RcXDN0njl" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T08:08:50.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sEgcuXHhiFH_ZbE9trrE" version="22.1.17" type="github">
   <diagram name="第 1 页" id="aTVYb6cWAYuNUxkINo1G">
-    <mxGraphModel dx="1962" dy="919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="766" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
             <mxPoint x="61" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n2Ksk_zTgNmwwXgzCQzB-91" value="集群调度" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#d80073;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="n2Ksk_zTgNmwwXgzCQzB-91" value="集群调度" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="415" y="1440" width="100" height="540" as="geometry" />
         </mxCell>
         <mxCell id="n2Ksk_zTgNmwwXgzCQzB-107" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="n2Ksk_zTgNmwwXgzCQzB-91">
